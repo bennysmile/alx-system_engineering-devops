@@ -18,3 +18,4 @@ Task 7. a shell script that creates a file named exactly \*\'Best School\'\*$\?\
 13. Being unique is better than being perfect
 14. It must be in that file
 15. Count that word
+16. What's next?
