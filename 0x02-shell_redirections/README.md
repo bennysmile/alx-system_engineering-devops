@@ -13,3 +13,4 @@ Task 7. a shell script that creates a file named exactly \*\'Best School\'\*$\?\
 >>>>>>> a1a3398ba30b2e846d92803224f1822d9f72e7d5
 9. Duplicate last line
 10. No more javascript
+11. Don't just count your directories, make your directories count
