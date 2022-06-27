@@ -24,3 +24,4 @@ Task 7. a shell script that creates a file named exactly \*\'Best School\'\*$\?\
 19. A to Z
 20. Without C, you would live in hiago
 21. esreveR
+22. DJ Cut Killer
